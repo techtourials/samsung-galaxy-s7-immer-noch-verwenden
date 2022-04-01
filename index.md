@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Samsung Galaxy S7 immer noch verwenden!
 
 You can use the [editor on GitHub](https://github.com/techtourials/samsung-galaxy-s7-immer-noch-verwenden/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
